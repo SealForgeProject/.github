@@ -19,8 +19,6 @@ SealForge is a self-hosted code-signing platform for teams and build pipelines. 
 
 [Website](https://getsealforge.com) · [Application source](https://github.com/SealForgeProject/sealforge) · [Website source](https://github.com/SealForgeProject/site)
 
-The website has not yet been deployed, and both source repositories are being prepared for publication.
-
 [LinkedIn](https://www.linkedin.com/company/SealForgeProject) · [YouTube](https://www.youtube.com/@SealForgeProject)
 
 ## Security
